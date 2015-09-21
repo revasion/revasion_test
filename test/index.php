@@ -14,4 +14,5 @@ echo $ch->add2()->add5()->num;
 //echo $ch->num;
 echo "commiting";
 echo "commiting 2";
+echo 'COMMITING 3';
 ?>
