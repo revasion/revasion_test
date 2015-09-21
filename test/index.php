@@ -12,5 +12,6 @@ require_once  "Cnain.php";
 $ch=new Chain();
 echo $ch->add2()->add5()->num;
 //echo $ch->num;
-		
+echo "commiting";
+echo "commiting 2";
 ?>
